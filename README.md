@@ -32,7 +32,7 @@ Hi there 👋, I'm Guilherme Ruy. Glad you're here!
 
 This presentation was made with markdown. If you want to know more about, check my guide in PT-BR:<br>
 <p align="left">
-<a href="https://github.com/GuilhermeRuy97/Estudos-Diversos/blob/main/linguagem-markdown.md" target="_blank" rel="noreferrer">
+<a href="https://github.com/GuilhermeRuy97/Estudos-Diversos/blob/main/markdown/linguagem-markdown.md" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white alt="Markdown" /></a>
 </p> 
                                                                                                                        
