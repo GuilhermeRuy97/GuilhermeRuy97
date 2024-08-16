@@ -4,8 +4,8 @@ Hi there 👋, I'm Guilherme Ruy. Glad you're here!
 <h3>Bio</h3>
 
 - :bar_chart: I’m currently working on Data Science
-- :books: I’m currently in a MBA ( Artificial Intelligence & Big Data - <a href="https://www.linkedin.com/school/icmc-usp/">ICMC</a>)
-- 🤝  I'm open to new projects and knowledge exchange
+- :books: Computer Science Degree & Data Science MBA
+- 🤝 I'm open to new projects and knowledge exchange
 - 📫 Ask me about anything on Linkedin: https://www.linkedin.com/in/guilherme-ruy/
 - :octocat: I can speak Portuguese, English and try Spanish with you
 - :shipit: Fun fact: I'm also a Gamer and an Athlete
