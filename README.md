@@ -13,7 +13,7 @@ Hi there 👋, I'm Guilherme Ruy. Glad you're here!
 ------------------
 <h3>Social</h3>
   <p align="left"> <a href="https://www.linkedin.com/in/guilherme-ruy/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /
-  <p align="left"> <a href="https://dataruy.wordpress.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Personal_Blog_(👨‍🏭🚧❗)-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" /</a>
+  /</a>
 </p>
   
 ------------------
