@@ -63,7 +63,6 @@ Hi there 👋, I'm Guilherme Ruy. Glad you're here!
   
 <h4>Others</h4>
 <p align="left">
-  <a href="https://www.kaggle.com/ruygui" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /> </a>
   <a href="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 https://www.hackerrank.com/guiruy_py" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank" /> </a>
   <a href="https://ubuntu.com/download" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /> </a>
