@@ -1,84 +1,72 @@
-Hi there 👋, I'm Guilherme Ruy. Glad you're here!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Guilherme+Ruy)](https://git.io/typing-svg)<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=B2E8F7&center=true&vCenter=true&width=435&lines=AI+Engineer)](https://git.io/typing-svg)
 =================================
 
-<h3>Bio</h3>
+**AI Engineer** specializing in LLM applications, RAG pipelines, and prompt engineering for production environments.
 
-- :bar_chart: I’m currently working on Data Engineer and Software Development in Artificial Intelligence
-- :books: Computer Science Degree & Data Science MBA. Currently pursuing an MBA: Software Engineer with AI
-- 🤝 I'm open to new projects and knowledge exchange
-- 📫 Ask me about anything on Linkedin: https://www.linkedin.com/in/guilherme-ruy/
-- :octocat: I can speak Portuguese, English and try Spanish with you
-- :shipit: Fun fact: I'm also a Gamer and an Athlete
+3+ years building AI-driven automation systems with Python, LangChain, and cloud platforms — currently working remotely for a US-based company. Background in data science and engineering, with an MBA in Data Science (USP) and an ongoing MBA in AI for Software Development.
 
-------------------
-<h3>Social</h3>
-  <p align="left"> <a href="https://www.linkedin.com/in/guilherme-ruy/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /
-  /</a>
-</p>
-  
-------------------
-<h3>Skills</h3>
+**Let's connect**<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-ruy/)
 
-<h4>Programming</h4>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" /> </a>
-  <a href="https://learn.microsoft.com/pt-br/dax/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" alt="DAX" /> </a>
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R" /> </a>
-  <a href="https://devdocs.io/c/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" /> </a>
-  <a href="https://github.com/glhrzx/markdown-badges" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> </a>
-</p>
+---
 
-<h4>Python based Skills</h4>
-<p align="left">
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /> </a>
-    <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" /> </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" /> </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" /> </a>
-  <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" /> </a>
-  <a href="https://www.tensorflow.org/resources/learn-ml?gad=1&gclid=Cj0KCQjw6cKiBhD5ARIsAKXUdyYAtaJkFdRrw9mBrmTiFJyOuPW8JoSxOERtWDldz0dk3NS83NKnT4caAhSvEALw_wcB&hl=pt-br" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" /> </a>
-  <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" /> </a>
-</p>
-  
-<h4>Database</h4>
-<p align="left">
-  <img alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/> 
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/> 
-  <img alt="Amazon S3" src="https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white"/> 
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> </a>
-  <a href="https://marketplace.hitachivantara.com/pentaho/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Pentaho-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" alt="Pentaho" /> </a>
-  <a href="https://www.oracle.com/br/database/technologies/appdev/plsql.html" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black" alt="OracleSQL" /> </a>
-  <img alt="Airtable" src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white"/> 
-</p>
-  
-<h4>Some Office Skills</h4>
-<p align="left">
-  <a href="https://www.atlassian.com/software/jira?&aceid=&adposition=&adgroup=144583555677&campaign=19313279983&creative=642044821568&device=c&keyword=jira&matchtype=e&network=g&placement=&ds_kids=p74591032830&ds_e=GOOGLE&ds_eid=700000001558501&ds_e1=GOOGLE&gclid=Cj0KCQjw6cKiBhD5ARIsAKXUdyYfa1CghMQ4QGYO17QebBzlB4a1y_iviVof6oW2RlQvS34P9hjNdgMaAoAfEALw_wcB&gclsrc=aw.ds" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" /> </a>
-  <a href="https://trello.com/pt-BR?&aceid=&adposition=&adgroup=148159506607&campaign=19269516466&creative=641463051732&device=c&keyword=trello&matchtype=e&network=g&placement=&ds_kids=p74543507295&ds_e=GOOGLE&ds_eid=700000001557344&ds_e1=GOOGLE&gad=1&gclid=Cj0KCQjw6cKiBhD5ARIsAKXUdyb9_HPES0PQORqA0mCQ1Je_hXCSnZfDFoLBO5liLDm6vNbu8G6X6lUaApJDEALw_wcB&gclsrc=aw.ds" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello" /> </a>
-  <a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" /> </a>
-  <a href="https://slack.com/intl/pt-br" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" /> </a>
-  <a href="https://powerbi.microsoft.com/pt-br/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="PowerBI" /> </a>
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
-</p>
-  
-<h4>Others</h4>
-<p align="left">
-  <a href="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
-https://www.hackerrank.com/guiruy_py" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank" /> </a>
-  <a href="https://ubuntu.com/download" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> </a>
-  <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img alt="Google Gemini" src="https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white"/> 
-</p>
+### 🧠 AI & LLM
 
-<h4>Also:</h4>
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
 
-- **Langchain** and related <br>
-- **Vector Database** <br>
-- **Prompt Engineering** <br>
-- AWS **EC**2 <br>
-- Google **BigQuery** <br>
-- **Amazon API** (SPAPI, Advertising, Data Kiosk)
+`RAG Pipelines` `Prompt Engineering & Evaluation` `AI Agents` `Embeddings` `Vector Databases` `LangSmith` `Computer Vision` `OCR`
+
+### 🛠️ AI Tooling & Automation
+
+![Claude Code](https://img.shields.io/badge/Claude%20Code-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![N8N](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+`CustomGPT` `Gemini CLI` `Make` `Airbyte` `Daton` `CI/CD Pipelines`
+
+### ⚙️ Programming & Data
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
+`NumPy` `Matplotlib` `OpenCV` `Keras` `Streamlit` `DAX`
+
+### ☁️ Cloud & Infrastructure
+
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+`BigQuery` `Cloud Storage` `EC2` `S3` `CloudWatch` `IAM` `PostgreSQL`
+
+### 📊 Data & BI
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+
+`Retool` `ETL/ELT Pipelines` `Data Warehouse Management` `Amazon SP-API` `Amazon Advertising API` `Data Kiosk`
+
+---
+
+### 📌 Featured Projects
+
+> *Due to NDA, 95% of my professional work cannot be shared.*
+
+| Project | Description |
+|---------|-------------|
+| [**Prompt Evaluation & Optimization**](https://github.com/GuilhermeRuy97/prompt-evaluation-langsmith) | LangSmith-based pipeline for systematic prompt evaluation and iteration |
+| [**RAG Pipeline for PDF Retrieval & Q&A**](https://github.com/GuilhermeRuy97/pdf-read-and-search-rag) | Document search system using embeddings for retrieval-augmented generation |
+| [**Love Brand Analysis**](https://github.com/GuilhermeRuy97/love-brands-analysis) | Data-driven brand sentiment analysis |
+| [**Python for Data Course**](https://github.com/GuilhermeRuy97/Curso-ministrado-Python-para-Dados) | Teaching material used in PUC Minas workshops (4 editions) |
  
 ------------------
   
