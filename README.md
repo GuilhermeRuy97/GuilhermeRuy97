@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Guilherme+Ruy)](https://git.io/typing-svg)<br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=B2E8F7&center=true&vCenter=true&width=435&lines=AI+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=3000&vCenter=true&width=435&lines=Guilherme+Ruy)](https://git.io/typing-svg)<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=B2E8F7&vCenter=true&width=435&lines=AI+Engineer)](https://git.io/typing-svg)
 =================================
 
 **AI Engineer** specializing in LLM applications, RAG pipelines, and prompt engineering for production environments.
